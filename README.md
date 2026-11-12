@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Aina Oluwasegun Abdulafiz 👋
 
-<!--
-**shi03afiz/shi03afiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Cybersecurity Analyst | Lagos, Nigeria
 
-Here are some ideas to get you started:
+I am building hands-on skills in Networks & Network Security through labs and packet analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Networking: VLANs, NAT, DHCP, Routing, Switching
+- Security: Port Security, Firewalls, Access Control
+- Tools: Wireshark, Cisco Packet Tracer, Cisco IOS
+- Protocols: DNS, ICMP, TCP, UDP, ARP
+
+### 📂 Featured Labs
+- **PORT-SECURITY-LAB** - Port security with protect mode
+- **NAT-LAB** - LAN to Internet NAT + DHCP
+- **Analyze-Network-Layer-Communication** - DNS and ICMP with tcpdump
+- **Analyzing-Network-Attacks** - Wireshark TCP SYN Flood attack
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aina-oluwasegun-45452a442/
